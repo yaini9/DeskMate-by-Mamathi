@@ -67,7 +67,7 @@ Create a `.env` file inside the `backend` folder.
 Example:
 
 ```env
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=your_api_key_here(Create a Gemini API key from: https://aistudio.google.com/app/apikey)
 OPENAI_MODEL=gemini-2.5-flash
 OPENAI_BASE_URL=https://generativelanguage.googleapis.com/v1beta/openai/
 ```
