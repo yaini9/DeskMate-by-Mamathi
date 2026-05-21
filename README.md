@@ -213,7 +213,7 @@ This makes the workflow fully observable end-to-end.
 A recorded demo video demonstrating multiple query workflows is included in this repository as:
 
 ```txt
-demo.mp4
+demo.webm
 ```
 
 ---
